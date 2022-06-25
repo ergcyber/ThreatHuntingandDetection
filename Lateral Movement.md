@@ -1,7 +1,7 @@
 
-## Lateral Movement
+# Lateral Movement
 
-** // for referencing https://docs.microsoft.com/en-us/defender-for-identity/use-case-lateral-movement-path
+**for** referencing https://docs.microsoft.com/en-us/defender-for-identity/use-case-lateral-movement-path
 // This query aims to visulize number of users and devices for the path of lateral movement towards High privileged accounts
 // High numbers indicates potential risk for lateral movement associated with targeted accounts that security team can take actions to remediate as mentioned aboved MS documentation
 
